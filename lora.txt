@@ -42,7 +42,7 @@ https://civitai.com/api/download/models/45671
 https://civitai.com/api/download/models/35168
 https://civitai.com/api/download/models/67935
 #character
-https://civitai.com/api/download/models/5540
+https://civitai.com/api/download/models/5541
 https://civitai.com/api/download/models/22025
 https://civitai.com/api/download/models/11523
 https://civitai.com/api/download/models/6244
