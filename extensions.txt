@@ -9,7 +9,6 @@ https://github.com/jexom/sd-webui-depth-lib
 https://github.com/camenduru/stable-diffusion-webui-huggingface
 https://github.com/kohya-ss/sd-webui-additional-networks
 https://github.com/zanllp/sd-webui-infinite-image-browsing
-https://github.com/Mikubill/sd-webui-controlnet
 https://github.com/SusungHong/Self-Attention-Guidance.git
 https://github.com/YKefasu/sd-artists-ui-tweak.git
 https://github.com/Iyashinouta/sd-model-downloader
