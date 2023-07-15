@@ -12,12 +12,12 @@ https://github.com/zanllp/sd-webui-infinite-image-browsing
 https://github.com/Mikubill/sd-webui-controlnet
 https://github.com/SusungHong/Self-Attention-Guidance.git
 https://github.com/YKefasu/sd-artists-ui-tweak.git
-https://github.com/Iyashinouta/sd-model-downloader sd-model-downloader
+https://github.com/Iyashinouta/sd-model-downloader
 https://github.com/fkunn1326/openpose-editor openpose-editor
-https://github.com/hnmr293/posex posex
-https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 ultimate-upscale-for-automatic1111
-https://github.com/Tsukreya/Umi-AI-debloat Umi-AI
+https://github.com/hnmr293/posex 
+https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 
+https://github.com/Tsukreya/Umi-AI-debloat
 https://github.com/Bing-su/adetailer adetailer
-https://github.com/CiaraStrawberry/TemporalKit TemporalKit
-https://github.com/Extraltodeus/depthmap2mask depthmap2mask
+https://github.com/CiaraStrawberry/TemporalKit
+https://github.com/Extraltodeus/depthmap2mask
 https://github.com/SusungHong/Self-Attention-Guidance.git
