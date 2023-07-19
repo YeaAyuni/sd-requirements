@@ -1,11 +1,11 @@
 {
     "sd_backend": "original",
     "sd_checkpoint_autoload": true,
-    "sd_model_checkpoint": "aamAnyloraAnimeMixAnime_v1.safetensors",
+    "sd_model_checkpoint": "dreamshaper_7.safetensors",
     "sd_model_refiner": "None",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
-    "sd_vae": "Automatic",
+    "sd_vae": "kl-f8-anime2.ckpt",
     "sd_model_dict": "None",
     "stream_load": false,
     "model_reuse_dict": false,
