@@ -1,1 +1,2 @@
 https://github.com/Mikubill/sd-webui-controlnet/ | sd-webui-controlnet
+https://github.com/etherealxx/batchlinks-webui.git | batchlinks-webui
