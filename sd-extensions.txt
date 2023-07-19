@@ -1,2 +1,4 @@
-https://github.com/Mikubill/sd-webui-controlnet/ | sd-webui-controlnet
+https://github.com/Mikubill/sd-webui-controlnet.git | sd-webui-controlnet
 https://github.com/etherealxx/batchlinks-webui.git | batchlinks-webui
+https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git | tag-autocomplete
+https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git | ultimate-upscaler
