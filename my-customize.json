@@ -1,1 +1,10 @@
-
+{
+  "checkpoint":{
+    "name":"DreamShaper",
+    "direct_url":"https://civitai.com/api/download/models/109123"
+  }
+  "vae":{
+    "name":"kl-f8-anime",
+    "direct_url":"https://huggingface.co/hakurei/waifu-diffusion-v1-4/resolve/main/vae/kl-f8-anime.ckpt"
+  }
+}
